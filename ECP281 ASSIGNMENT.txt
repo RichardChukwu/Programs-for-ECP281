@@ -1,0 +1,28 @@
+ECP281 ASSIGNMENT
+NAME:RICHARD NDUBUISI CHUKWUMAT NO:ENG1804721DEPARTMENT:COMPUTER ENGINEERINGDATE:12TH FEBRUARY, 2021
+SUBJECT FOCUS:
+THE BRAIN OF A 9 YEAR OLD AND A SUPER COMPUTER WHICH IS MORE POWERFUL, INTELLIGENT AND FASTER?
+	A computer is an electronic device for storing, manipulating and processing data. Typically in binary form, according to instructions given to it in a variable program. It is a machine that can be instructed to carry out sequences of arithmetic and logical operations automatically via computer programming. 
+	Also, a super computer is a computer with high level of performance as compared to a general – purpose computer. The performance of a supercomputer is commonly measured in floating – point operations per second.
+SUBJECT ANALYSIS
+     First of all I’ll begin by analysing some contributions made by fellow classmates. 
+One of them said, the computer is faster in operation than a 9 year old because they are manufactured for a specific purpose and therefore they will be faster and more efficient in what they do, that is why we consult computers in most of our calculations to save time. I personally, felt that he derailed from the focus of the subject matter which is a 9 year old, by stating his points about humans generally with no knowledge – based backing on the point!
+Consequently, another course mate added that a 9 year old is more intelligent than that of a super computer because it is capable of adopting new ideas and methods to solve problem whereas the computer is limited to a specific method. He went further to say that the reason for this limitation is because the computer’s operation is only based on the instructions given to it. In opposition, another classmate objected to that fact, stating that the new age of super computers actually have the ability to learn, unlearn and relearn, something called ARTIFICIAL INTELLIGENCE.
+
+RESEARCH ANALYSIS 
+	When we discuss computers we are referring to meticulously designed machines that are based on logic, reproducibility, predictability and math. The human brain, on the other hand, is a tangled, seemingly random mess of neurons that do not behave in a predictable manner, even that of a 9 year old too!
+	Since the inception of the first computers, there has been a direct comparison between these “computational machines” and the human brain. One of the common phrases that has stuck around for decades, and which encourages the idea of a brain vs. computer argument, is “brains are analogue, computers are digital”. This makes it seem like computers are superior, but in truth, the human brain is far more advanced and efficient, and powerful than the most impressive supercomputers that have ever been built.
+At the time of this writing, the fastest supercomputer in the world is the Tianhe-2 in Guangzhou, China and has a maximum processing speed of 54.902 petaFlops. A petaFlop is quadrillion (one thousand trillion) floating point calculations per second. That’s a huge amount of calculations, and yet that doesn’t even come close to the processing speed of the human brain!.
+In contrast, our miraculous brains operate on the next order higher. Although it is impossible to precisely calculate that the human brain operates 1 extraFLOP, which is equivalent ot a billion billion calculations per second
+	One of the things that truly sets the brain apart, aside from their clear advantage in raw computing power, is the flexibility that it displays.
+
+Essentially, the human brain can rewire itself, a feat more formally known as neuroplasticity. Neurons are able to disconnect and reconnect with others and even change in their basic features regardless of age, something that a carefully constructed computer cannot do.
+
+	In  conclusion, the recent stall in any new supercomputers at the top of the “fastest list” has made some people question the possibilities, but these new advancements may pay off in a major way, which would launch us into a new generation. If and when that happens, the answer to “who would win, the human brain or a supercomputer” might be different!
+
+REFERENCE
+* www.wikipedia.com/supercomputers 
+* www.scienceabc.com/humanbrain-vs-supercomputers
+  
+	
+	
